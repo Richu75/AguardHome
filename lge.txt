@@ -1,0 +1,13 @@
+! Richu’s LGe Blocklist
+! Updated: 2026-09-07
+
+||lgeapi.com^
+||lge.com^
+||lgappstv.com^
+||lgsmartplatform.com^
+||lgwebostv.com^
+||lgsmartad.com^
+||lgtvcommon.com^
+||nextlgsdp.com^
+||lgtviot.com^
+||wiselg.com^
